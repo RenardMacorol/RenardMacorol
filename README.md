@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm Renard Macorol, a passionate individual with a knack for coding and database management. I enjoy delving into complex problems and crafting elegant solutions. My tech journey began with the BS Information Technology program, and I've been on an exciting learning path ever since.
+Hello! I'm Renard Macorol, a passionate individual with a knack for coding and database management. I enjoy delving into complex problems and crafting elegant solutions. My tech journey began with the BS Computer Science program, and I've been on an exciting learning path ever since.
 
 ## Education
 
@@ -17,9 +17,9 @@ Hello! I'm Renard Macorol, a passionate individual with a knack for coding and d
 
 ## Skill Sets
 
-- **Programming Languages:** Java, Javascript
+- **Programming Languages:** Java, Python
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, VS Code
 
 ## Contact Me
 
