@@ -1,4 +1,4 @@
-# Hi There! I'm Renard Macorol 
+# Hi there! I'm Renard Macorol 
 
 Hello! I'm Renard Macorol, a passionate individual with a knack for coding and database management. I enjoy delving into complex problems and crafting elegant solutions. My tech journey began with the BS Computer Science program, and I've been on an exciting learning path ever since.
 
