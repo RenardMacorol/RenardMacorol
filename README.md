@@ -26,5 +26,5 @@ Hello! I'm Renard Macorol, a passionate individual with a knack for coding and d
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/renard-macorol-4b2578252/)
 - **Email:** rmacorol18@gmail.com
 ## Coding Website
-- **Codewars:** ![CodeWars](https://github.r2v.ch/codewars?user=RenardMacorol&stroke=%23BB432C)
+![CodeWars](https://github.r2v.ch/codewars?user=RenardMacorol&stroke=%23BB432C)
 
