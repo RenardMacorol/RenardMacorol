@@ -21,7 +21,7 @@ Hello! I'm Renard Macorol, a passionate individual with a knack for coding and d
 [![My Skills](https://skillicons.dev/icons?i=java,python,mysql,react,html,css&perline=10)](https://skillicons.dev)
 
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart,DrawIO, Jaspersoft Studio, Eclipse, VS Code, Neovim, Git, Github
+- **Tools:** Lucidchart,DrawIO, Jaspersoft Studio, Eclipse, VS Code, Neovim, Git, Github, Gradle
 
 ## Contact Me
 
