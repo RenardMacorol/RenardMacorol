@@ -27,7 +27,7 @@ Hello! I'm Renard Macorol, a passionate individual with a knack for coding and d
 
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/renard-macorol-4b2578252/)
 - **Email:** rmacorol18@gmail.com
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/Wonkabars)
 ![CodeWars](https://github.r2v.ch/codewars?user=RenardMacorol&stroke=%23BB432C)
 ![Macorol's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenardMacorol&show_icons=true&theme=tokyonight)
 
