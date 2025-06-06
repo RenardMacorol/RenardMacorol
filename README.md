@@ -15,6 +15,7 @@ Hello! I'm Renard Macorol, a passionate individual with a knack for coding and d
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EF6F0886EBE9E37C2D17F71882C8AFCE227D2F5023A231A83C41F2D10F8D6B0C )
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/13c5263b27fb47059266c1d6ef2ff510)
 - [Deep Learning Fundametals](https://courses.cognitiveclass.ai/certificates/e1b5c1f2fde4451ba5233e2d18e02c07)
+- [Python 101 for Data Science](https://courses.cognitiveclass.ai/certificates/4a8af357cfbb48a6b83416437d8c83fd)
 
 ## Skill Sets
 
