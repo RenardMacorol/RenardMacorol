@@ -17,7 +17,8 @@ Hello! I'm Renard Macorol, a passionate individual with a knack for coding and d
 - [Deep Learning Fundametals](https://courses.cognitiveclass.ai/certificates/e1b5c1f2fde4451ba5233e2d18e02c07)
 - [Python 101 for Data Science](https://courses.cognitiveclass.ai/certificates/4a8af357cfbb48a6b83416437d8c83fd)
 ## Badge
-(https://www.credly.com/badges/f513bcd7-6fd8-4248-8b9a-bda4a105d95d/public_url)
+![python-for-data-science](https://github.com/user-attachments/assets/5b69d5ba-eb56-4a70-84f5-651dffa0e2de)
+![deep-learning-essentials](https://github.com/user-attachments/assets/b325f729-9311-4e8d-9d2e-06f627e3622c)
 ## Skill Sets
 
 - **Languages**: 
@@ -34,4 +35,5 @@ Hello! I'm Renard Macorol, a passionate individual with a knack for coding and d
 ![CodeWars](https://github.r2v.ch/codewars?user=RenardMacorol&stroke=%23BB432C)
 ![Macorol's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenardMacorol&show_icons=true&theme=tokyonight)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Wonkabars)
+
 
