@@ -19,6 +19,7 @@ Hello! I'm Renard Macorol, a passionate individual with a knack for coding and d
 ## Badge
 <img src="https://github.com/user-attachments/assets/5b69d5ba-eb56-4a70-84f5-651dffa0e2de" alt="loggo" width="150"/>
 <img src="https://github.com/user-attachments/assets/b325f729-9311-4e8d-9d2e-06f627e3622c" alt="loggo" width="150"/>
+<img src="https://github.com/user-attachments/assets/6fb7774f-50d8-46f8-85c5-38048e0069f0" alt="loggo" width="150"/>
 
 ## Skill Sets
 
@@ -36,5 +37,6 @@ Hello! I'm Renard Macorol, a passionate individual with a knack for coding and d
 ![CodeWars](https://github.r2v.ch/codewars?user=RenardMacorol&stroke=%23BB432C)
 ![Macorol's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenardMacorol&show_icons=true&theme=tokyonight)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Wonkabars)
+
 
 
