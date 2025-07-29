@@ -16,6 +16,7 @@ Hello! I'm Renard Macorol, a passionate individual with a knack for coding and d
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/13c5263b27fb47059266c1d6ef2ff510)
 - [Deep Learning Fundametals](https://courses.cognitiveclass.ai/certificates/e1b5c1f2fde4451ba5233e2d18e02c07)
 - [Python 101 for Data Science](https://courses.cognitiveclass.ai/certificates/4a8af357cfbb48a6b83416437d8c83fd)
+- [Nexjs App Router Fundamentals(https://nextjs.org/learn/certificate?course=dashboard-app&user=83982&certId=dashboard-app-83982-1753778980286)
 ## Badge
 <img src="https://github.com/user-attachments/assets/5b69d5ba-eb56-4a70-84f5-651dffa0e2de" alt="loggo" width="150"/>
 <img src="https://github.com/user-attachments/assets/b325f729-9311-4e8d-9d2e-06f627e3622c" alt="loggo" width="150"/>
