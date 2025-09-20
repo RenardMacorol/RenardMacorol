@@ -26,7 +26,7 @@ Hello! I'm Renard Macorol, a passionate individual with a knack for coding and d
 <img src="https://github.com/user-attachments/assets/6fb7774f-50d8-46f8-85c5-38048e0069f0" alt="loggo" width="150"/>
 <img src="https://github.com/user-attachments/assets/66a94850-bb5f-470d-b0d0-7d48e4849cec" width="150" height="150" alt="logo" />
 
-## Skill Sets
+## Tools
 
 - **Languages**: 
 [![My Skills](https://skillicons.dev/icons?i=java,python,mysql,react,html,css&perline=10)](https://skillicons.dev)
