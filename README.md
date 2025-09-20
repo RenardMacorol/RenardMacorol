@@ -40,7 +40,8 @@ Hello! I'm Renard Macorol, a passionate individual with a knack for coding and d
 
 ![CodeWars](https://github.r2v.ch/codewars?user=RenardMacorol&stroke=%23BB432C)
 ![Macorol's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenardMacorol&show_icons=true&theme=tokyonight)
+<!--
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Wonkabars)
-
+--!>
 
 
